@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d8c6b51.css",
+    "main.js": "/static/js/main.27ff4664.js",
+    "static/js/453.aa710999.chunk.js": "/static/js/453.aa710999.chunk.js",
+    "static/media/person_measurement.png": "/static/media/person_measurement.7e1e8490ced063dd074b.png",
+    "static/media/blood_drop.png": "/static/media/blood_drop.556d9fcea8fbfd40bbce.png",
+    "index.html": "/index.html",
+    "main.2d8c6b51.css.map": "/static/css/main.2d8c6b51.css.map",
+    "main.27ff4664.js.map": "/static/js/main.27ff4664.js.map",
+    "453.aa710999.chunk.js.map": "/static/js/453.aa710999.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8c6b51.css",
+    "static/js/main.27ff4664.js"
+  ]
+}
