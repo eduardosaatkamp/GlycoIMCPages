@@ -25,7 +25,7 @@
     "styled-components": "^6.1.13",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/eduardosaatkamp/GlycoIMCPages"
+    "homepage": "https://eduardosaatkamp.github.io/GlycoIMCPages"
   },
   "scripts": {
     "start": "react-scripts start",
